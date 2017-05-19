@@ -1,0 +1,19 @@
+1.cd => 进入某个文件夹; 文件夹名(进入指定文件夹), .. (返回上一级); 盘符: （进入某个磁盘）;
+
+2.ls => 查看当前目录下的文件;
+
+3.mkdir => 建立文件夹;
+
+4.命令 1 .   git config --global user.name "你的git名称"
+
+ 命令2.     git config --global user.email "你的git验证邮箱"
+
+5.强制终止指令; ctrl + C + C；
+
+6.git init 代表 在这里创建一个git 仓库;
+
+7.git add 文件名 代表把文件放进暂存区;
+
+8.git status 查看文件提交状态;
+
+9.$ git commit -m "第一次提交，共有8条指令"
